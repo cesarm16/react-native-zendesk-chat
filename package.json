@@ -16,6 +16,7 @@
     "android",
     "react-component"
   ],
+  "homepage": "https://github.com/brandingbrand/react-native-zendesk-chat",
   "author": "jrichardlai",
   "license": "MIT"
 }
