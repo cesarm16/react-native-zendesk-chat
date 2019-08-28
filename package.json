@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/taskrabbit/react-native-zendesk-chat"
+		"url": "https://github.com/cesarm16/react-native-zendesk-chat"
 	},
 	"keywords": [
 		"zendesk",
@@ -16,7 +16,7 @@
 		"android",
 		"react-component"
 	],
-	"homepage": "https://github.com/brandingbrand/react-native-zendesk-chat",
+	"homepage": "https://github.com/cesarm16/react-native-zendesk-chat",
 	"author": "cesarm16",
 	"license": "MIT"
 }
