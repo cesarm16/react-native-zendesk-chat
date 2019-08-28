@@ -1,10 +1,3 @@
-//
-//  RNZendeskChat.m
-//  Tasker
-//
-//  Created by Jean-Richard Lai on 11/23/15.
-//  Copyright © 2015 Facebook. All rights reserved.
-//
 
 #import "RNZendeskChatModule.h"
 #import <ZDCChat/ZDCChat.h>
