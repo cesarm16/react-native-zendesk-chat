@@ -1,4 +1,4 @@
-package com.taskrabbit.zendesk;
+package com.cesarm16.zendesk;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

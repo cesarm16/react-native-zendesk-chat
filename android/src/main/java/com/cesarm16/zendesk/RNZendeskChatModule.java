@@ -1,4 +1,4 @@
-package com.taskrabbit.zendesk;
+package com.cesarm16.zendesk;
 
 import android.app.Activity;
 import android.content.Intent;
